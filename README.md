@@ -22,12 +22,6 @@ This repository contains the code and resources for analyzing hotel bookings dem
 - **`imgs/`**: Stores generated visualizations and plots.
   - Example files: `average week stays.png`, `avg_daily_rate.png`, etc.
 
-- **`catboost_info/`**: Directory containing logs and metadata related to CatBoost model training.
-  - `catboost_training.json`: Training details for the CatBoost model.
-  - `learn_error.tsv`, `time_left.tsv`: Logs for training progress.
-
-- **`__pycache__/`**: Auto-generated directory for Python bytecode files.
-
 ## How to Use
 
 1. Clone the repository.
