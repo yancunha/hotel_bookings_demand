@@ -4,7 +4,7 @@ This repository contains the code and resources for analyzing hotel bookings dem
 
 ## Files and Directories
 
-- **`fligoo_take_home_data_scientist_2.ipynb`**: The main Jupyter Notebook where the analysis and modeling are performed. It includes data exploration, feature engineering, and machine learning modeling.
+- **`take_home_data_scientist_2.ipynb`**: The main Jupyter Notebook where the analysis and modeling are performed. It includes data exploration, feature engineering, and machine learning modeling.
 
 - **`pipeline.py`**: Contains the implementation of a scikit-learn pipeline for data preprocessing and feature transformation.
 
@@ -35,4 +35,4 @@ This repository contains the code and resources for analyzing hotel bookings dem
    ```bash
    pipenv install
    pipenv shell
-3. Open the Jupyter Notebook (fligoo_take_home_data_scientist_2.ipynb) to explore the analysis and run the code.
+3. Open the Jupyter Notebook (take_home_data_scientist_2.ipynb) to explore the analysis and run the code.
